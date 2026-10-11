@@ -12,7 +12,7 @@ This project processes academic assessment records across multiple subjects and 
 - [x] Dataset Merging / Time-Series Resampling (if applicable)
 ## 3. How to Run the Program
 python main.py
-## 4. Dataset Information & Cleaning DecisionsData 
-Source: Custom student assessment CSV dataset containing 25-30 records with intentional missing score entries and duplicate rows, stored in data/students.csv.   Missing Values & Cleaning: Removed duplicate student rows to ensure unique records.
+## 4. Dataset Information & Cleaning Decisions
+Data Source: Custom student assessment CSV dataset containing 25-30 records with intentional missing score entries and duplicate rows, stored in data/students.csv. Missing Values & Cleaning: Removed duplicate student rows to ensure unique records.
 Coerced non-numeric marks to numeric values and imputed missing quiz, assignment, and exam scores using class median values to avoid skewing statistical outputs.
 ## 5. Console Output Screenshots
