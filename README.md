@@ -17,6 +17,7 @@ Data Source: Custom student assessment CSV dataset containing 25-30 records with
 Coerced non-numeric marks to numeric values and imputed missing quiz, assignment, and exam scores using class median values to avoid skewing statistical outputs.
 ## 5. Console Output Screenshots
 ### Terminal Output and Summary Report
+<img width="712" height="57" alt="Program1" src="https://github.com/user-attachments/assets/6ac1317e-854e-4acb-adbb-14f1eb463d94" />
 <img width="802" height="637" alt="summary_report" src="https://github.com/user-attachments/assets/5fd767aa-8a25-45c7-9149-4db46ae8c71a" />
 
 ### Description
